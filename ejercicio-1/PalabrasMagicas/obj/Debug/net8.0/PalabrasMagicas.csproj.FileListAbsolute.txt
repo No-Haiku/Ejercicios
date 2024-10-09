@@ -1,0 +1,14 @@
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.exe
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.deps.json
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.runtimeconfig.json
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.dll
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\bin\Debug\net8.0\PalabrasMagicas.pdb
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.AssemblyInfoInputs.cache
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.AssemblyInfo.cs
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.csproj.CoreCompileInputs.cache
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.dll
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\refint\PalabrasMagicas.dll
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.pdb
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\PalabrasMagicas.genruntimeconfig.cache
+C:\Users\Gian\Desktop\ejercicios\PalabrasMagicas\obj\Debug\net8.0\ref\PalabrasMagicas.dll
